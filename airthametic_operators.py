@@ -1,10 +1,11 @@
 __author__ = 'pavan'
 
+import math
 
 
-a= 103
-b = 3423
-c = 334234
+a= 10
+b = 20
+c = 30
 d=a+b
 print "d: addition of a+b ",d
 e =a-b
